@@ -1,0 +1,4 @@
+Interpolated values y at given x* 
+
+Lagrange Polynomials 
+4.000000   160.000000

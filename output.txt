@@ -1,0 +1,9 @@
+Coefficients: 
+1.027082
+-3.744007
+28.959217
+-52.383390
+49.055647
+
+Coefficient of determination 
+0.998543

@@ -1,0 +1,4 @@
+Interpolated values y at given x* 
+
+Cubic spline 
+6.000000   0.503891
